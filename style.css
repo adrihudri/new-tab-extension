@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700&display=swap');
+body {
+  background-size: cover;
+  background-position: center center;
+  font-family: 'Noto Serif', serif !important;
+}
+.hello {
+  margin-top: 10vh;
+  color: white;
+}
+.hello h1 {
+  font-weight: 900;
+  font-size: 70px;
+}
+.hello h2 {
+  font-weight: 200;
+}
+#apps {
+  display: inline-block;
+}
+#apps img {
+  max-width: 50px;
+}
